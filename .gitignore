@@ -1,0 +1,12 @@
+# Idea Project
+.idea/
+# Python
+__pycache__
+# virtual environment
+.venv
+venv
+drf-5T6TV_0X-py3.9
+# DB
+db.sqlite3
+# README.md
+README.md
