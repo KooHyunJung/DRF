@@ -58,8 +58,8 @@ mixins : https://www.django-rest-framework.org/api-guide/generic-views/#mixins
 <img width="992" alt="스크린샷 2022-05-18 오후 5 57 25" src="https://user-images.githubusercontent.com/96563289/169002394-7de3aebc-8c1d-476a-86b9-cfa5d547bbc1.png">
 
 ## DRF generics & Viweset & Router ##
-앞서 mixins로 코드를 간소화했지만 generics, Viweset & Router 사용하여 더 강력하게 코드 간소화가 가능하다.
-mixins, generics, Viweset & Route로 인해 점점 코드가 짧아자고 DRF가 대신 만들어주는 기능들이 많아졌다.
+앞서 mixins로 코드를 간소화했지만 generics, Viweset & Router 사용하여 더 강력하게 코드 간소화 가능하다.
+mixins, generics, Viweset & Route로 인해 점점 코드가 짧아지고 DRF가 대신 만들어주는 기능들이 많아졌다.
 개발자 입장에서 할 일이 적어진다는 장점도 있지만, 개발자의 자유도가 낮아진다 보니 커스텀하거나 수정할 때 어려움을 겪을 수 있다. 
 
 따라서 Viweset & Router 가장 강력한 형태라 해서 언제나 답은 아니다. 상황에 따라 적절하게 사용하고 활용할 줄 알아야 최적의 api를 설계할 수 있다 생각한다.
